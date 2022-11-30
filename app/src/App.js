@@ -9,8 +9,11 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
-        <Route path="/modal/:id" element={<Modal />}></Route>
+        <Route path={process.env.PUBLIC_URL + '/'} element={<Home />} />
+        <Route
+          path={process.env.PUBLIC_URL + '/modal/:id'}
+          element={<Modal />}
+        ></Route>
       </Routes>
     </>
   );
