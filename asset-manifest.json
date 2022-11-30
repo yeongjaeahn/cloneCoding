@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cloneCoding.git/static/css/main.74233fd1.css",
-    "main.js": "/cloneCoding.git/static/js/main.950385db.js",
-    "static/js/787.c1112931.chunk.js": "/cloneCoding.git/static/js/787.c1112931.chunk.js",
-    "index.html": "/cloneCoding.git/index.html",
-    "main.74233fd1.css.map": "/cloneCoding.git/static/css/main.74233fd1.css.map",
-    "main.950385db.js.map": "/cloneCoding.git/static/js/main.950385db.js.map",
-    "787.c1112931.chunk.js.map": "/cloneCoding.git/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/cloneCoding/static/css/main.74233fd1.css",
+    "main.js": "/cloneCoding/static/js/main.799f560f.js",
+    "static/js/787.c1112931.chunk.js": "/cloneCoding/static/js/787.c1112931.chunk.js",
+    "index.html": "/cloneCoding/index.html",
+    "main.74233fd1.css.map": "/cloneCoding/static/css/main.74233fd1.css.map",
+    "main.799f560f.js.map": "/cloneCoding/static/js/main.799f560f.js.map",
+    "787.c1112931.chunk.js.map": "/cloneCoding/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74233fd1.css",
-    "static/js/main.950385db.js"
+    "static/js/main.799f560f.js"
   ]
 }
